@@ -1,4 +1,4 @@
-### Nice to meet you, Iḿ Aitor 👋
+# Nice to meet you, I'm Aitor 👋
 
 ## About me
 
