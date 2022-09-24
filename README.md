@@ -1,4 +1,4 @@
-# Nice to meet you, Iḿ Aitor 👋
+# Nice to meet you, I'm Aitor 👋
 
 ## About me
 
@@ -7,7 +7,7 @@ I am a person who loves learning new abilities. Nowadays, I live in Sevilla (Spa
 ### My current situation
 - 🔭 I’m currently working on my own ambitiuos project that I want to launch to the world
 - 🌱 I’m currently learning Full Stack skills
-- :mag: Iḿ interested in real state investments and programming
+- :mag: I'm interested in real state investments and programming
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/aitor-vico-l%C3%B3pez-4361a3222/)
 
 <!--
